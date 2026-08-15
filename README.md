@@ -34,7 +34,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ---
 
 <!-- LIST:START -->
-**38 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-08-10**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
+**39 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-08-10**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
 
 ### At a glance: eval frameworks compared
 
@@ -101,6 +101,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 - [BrowserGym](https://github.com/ServiceNow/BrowserGym) `★ 1.3k` — A Gym environment for web-automation agents (by ServiceNow).
 - [AndroidWorld](https://github.com/google-research/android_world) `★ 843` — An environment and benchmark for autonomous mobile agents (by Google Research).
 - [VisualWebArena](https://github.com/web-arena-x/visualwebarena) `★ 485` — WebArena extended to multimodal, visually-grounded web tasks.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) — Evaluates browser agents on 283 everyday tasks across 144 live websites, with execution recording and agentic outcome judging.
 
 ### Specialized & CI Eval Tools
 
