@@ -28,6 +28,7 @@
   { "name": "SWE-bench", "repo": "princeton-nlp/SWE-bench", "url": "https://github.com/princeton-nlp/SWE-bench", "category": "benchmark", "desc": "Can agents resolve real GitHub issues? The de facto coding-agent benchmark." },
   { "name": "τ-bench (tau-bench)", "repo": "sierra-research/tau-bench", "url": "https://github.com/sierra-research/tau-bench", "category": "benchmark", "desc": "Tool-agent-user interaction in realistic customer-service settings (by Sierra)." },
   { "name": "AgentBench", "repo": "THUDM/AgentBench", "url": "https://github.com/THUDM/AgentBench", "category": "benchmark", "desc": "A comprehensive benchmark evaluating LLMs as agents across 8 environments (ICLR'24)." },
+  { "name": "A2APark", "repo": "AgentAmusementPark/agent-amusement-park", "url": "https://a2apark.com", "category": "benchmark", "desc": "Deterministic stateful worlds for testing agent trajectories against evidence-linked rules, with signed scorecards and a no-signup runnable demo." },
   { "name": "WebArena", "repo": "web-arena-x/webarena", "url": "https://github.com/web-arena-x/webarena", "category": "benchmark", "desc": "A realistic, self-hostable web environment for autonomous agents." },
   { "name": "VisualWebArena", "repo": "web-arena-x/visualwebarena", "url": "https://github.com/web-arena-x/visualwebarena", "category": "benchmark", "desc": "WebArena extended to multimodal, visually-grounded web tasks." },
   { "name": "BrowserGym", "repo": "ServiceNow/BrowserGym", "url": "https://github.com/ServiceNow/BrowserGym", "category": "benchmark", "desc": "A Gym environment for web-automation agents (by ServiceNow)." },
@@ -41,6 +42,7 @@
   { "name": "VoiceEval", "repo": "royalpinto007/Voiceeval", "url": "https://github.com/royalpinto007/Voiceeval", "category": "specialized", "desc": "Evaluation for voice agents; catches what text evals miss: mis-hearing, missing confirmation, latency, barge-in." },
   { "name": "Agentrace", "repo": "royalpinto007/Agentrace", "url": "https://github.com/royalpinto007/Agentrace", "category": "specialized", "desc": "Observability for Claude Code subagents; reads session transcripts and flags results you shouldn't trust." },
   { "name": "AnswerProof", "repo": "royalpinto007/answerproof", "url": "https://github.com/royalpinto007/answerproof", "category": "specialized", "desc": "Verifiable, tamper-evident receipts for RAG answers (Merkle inclusion proofs + Ed25519 signatures)." },
+  { "name": "Agent QA", "repo": "vostride/agent-qa", "url": "https://github.com/vostride/agent-qa", "category": "specialized", "desc": "Application-level regression testing for software produced by coding agents, with persistent web/mobile tests and retained failure evidence; it does not score agent trajectories and is source-available under FSL-1.1-ALv2, converting to Apache-2.0 two years after each release." },
 
   { "name": "LLM Datasets", "repo": "mlabonne/llm-datasets", "url": "https://github.com/mlabonne/llm-datasets", "category": "dataset", "desc": "A curated list of datasets and tools for post-training and evaluation." }
 ]
