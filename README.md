@@ -34,7 +34,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ---
 
 <!-- LIST:START -->
-**40 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-08-31**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
+**41 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-08-31**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
 
 ### At a glance: eval frameworks compared
 
@@ -102,6 +102,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 - [AndroidWorld](https://github.com/google-research/android_world) `★ 869` — An environment and benchmark for autonomous mobile agents (by Google Research).
 - [VisualWebArena](https://github.com/web-arena-x/visualwebarena) `★ 485` — WebArena extended to multimodal, visually-grounded web tasks.
 - [A2APark](https://a2apark.com) — Deterministic stateful worlds for testing agent trajectories against evidence-linked rules, with signed scorecards and a no-signup runnable demo.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) — Evaluates browser agents on 283 everyday tasks across 144 live websites, with execution recording and agentic outcome judging.
 
 ### Specialized & CI Eval Tools
 

@@ -36,6 +36,7 @@
   { "name": "AndroidWorld", "repo": "google-research/android_world", "url": "https://github.com/google-research/android_world", "category": "benchmark", "desc": "An environment and benchmark for autonomous mobile agents (by Google Research)." },
   { "name": "MLE-bench", "repo": "openai/mle-bench", "url": "https://github.com/openai/mle-bench", "category": "benchmark", "desc": "How well do agents perform at machine-learning engineering? (by OpenAI)." },
   { "name": "ToolBench", "repo": "OpenBMB/ToolBench", "url": "https://github.com/OpenBMB/ToolBench", "category": "benchmark", "desc": "Training, serving, and evaluating LLMs for tool use (ICLR'24 spotlight)." },
+  { "name": "ClawBench", "repo": "TIGER-AI-Lab/ClawBench", "url": "https://github.com/TIGER-AI-Lab/ClawBench", "category": "benchmark", "desc": "Evaluates browser agents on 283 everyday tasks across 144 live websites, with execution recording and agentic outcome judging." },
 
   { "name": "EvalGate", "repo": "royalpinto007/evalgate", "url": "https://github.com/royalpinto007/evalgate", "category": "specialized", "desc": "Prompt and agent regression CI as a GitHub Action; the build fails when your prompt gets dumber, with PR delta comments." },
   { "name": "VoiceEval", "repo": "royalpinto007/Voiceeval", "url": "https://github.com/royalpinto007/Voiceeval", "category": "specialized", "desc": "Evaluation for voice agents; catches what text evals miss: mis-hearing, missing confirmation, latency, barge-in." },
