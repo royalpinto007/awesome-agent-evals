@@ -34,7 +34,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ---
 
 <!-- LIST:START -->
-**41 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-07**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
+**42 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-07**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
 
 ### At a glance: eval frameworks compared
 
@@ -103,6 +103,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 - [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) `★ 666` — Evaluates browser agents on 283 everyday tasks across 144 live websites, with execution recording and agentic outcome judging.
 - [VisualWebArena](https://github.com/web-arena-x/visualwebarena) `★ 485` — WebArena extended to multimodal, visually-grounded web tasks.
 - [A2APark](https://a2apark.com) `★ 0` — Deterministic stateful worlds for testing agent trajectories against evidence-linked rules, with signed scorecards and a no-signup runnable demo.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) — Runs task prompts and project-owned Workflow Runner YAML in a private fresh-repository workspace, with retained evidence for ordered deterministic and/or LLM evaluation of agent runs.
 
 ### Specialized & CI Eval Tools
 
