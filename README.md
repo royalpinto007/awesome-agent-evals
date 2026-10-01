@@ -34,7 +34,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ---
 
 <!-- LIST:START -->
-**42 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
+**43 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
 
 ### At a glance: eval frameworks compared
 
@@ -112,6 +112,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 - [AnswerProof](https://github.com/royalpinto007/answerproof) `★ 1` — Verifiable, tamper-evident receipts for RAG answers (Merkle inclusion proofs + Ed25519 signatures).
 - [EvalGate](https://github.com/royalpinto007/evalgate) `★ 0` — Prompt and agent regression CI as a GitHub Action; the build fails when your prompt gets dumber, with PR delta comments.
 - [Agentrace](https://github.com/royalpinto007/Agentrace) `★ 0` — Observability for Claude Code subagents; reads session transcripts and flags results you shouldn't trust.
+- [Twinbay](https://twinbay.ai) — Hosted, stateful copies of third-party APIs for agent tests; grades the agent's captured API calls against outcomes written in plain language.
 
 ### Datasets
 
