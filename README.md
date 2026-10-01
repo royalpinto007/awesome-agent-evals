@@ -34,7 +34,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ---
 
 <!-- LIST:START -->
-**42 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
+**43 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
 
 ### At a glance: eval frameworks compared
 
@@ -111,6 +111,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 - [VoiceEval](https://github.com/royalpinto007/Voiceeval) `★ 2` — Evaluation for voice agents; catches what text evals miss: mis-hearing, missing confirmation, latency, barge-in.
 - [AnswerProof](https://github.com/royalpinto007/answerproof) `★ 1` — Verifiable, tamper-evident receipts for RAG answers (Merkle inclusion proofs + Ed25519 signatures).
 - [EvalGate](https://github.com/royalpinto007/evalgate) `★ 0` — Prompt and agent regression CI as a GitHub Action; the build fails when your prompt gets dumber, with PR delta comments.
+- [ReplayGate](https://github.com/kyal102/replaygate) — Re-runs local verification commands recorded in EvidencePack receipts and compares result hashes to detect drift; intended for trusted local modules, not as a sandbox or a proof of truth.
 - [Agentrace](https://github.com/royalpinto007/Agentrace) `★ 0` — Observability for Claude Code subagents; reads session transcripts and flags results you shouldn't trust.
 
 ### Datasets
