@@ -34,7 +34,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ---
 
 <!-- LIST:START -->
-**43 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
+**44 tools and benchmarks**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-evals.agentpostmortem.com](https://agent-evals.agentpostmortem.com)**.
 
 ### At a glance: eval frameworks compared
 
@@ -117,6 +117,7 @@ Task success rate, tool-call accuracy, faithfulness/groundedness (for RAG), safe
 ### Datasets
 
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) `★ 4.8k` — A curated list of datasets and tools for post-training and evaluation.
+- [Agentic AI Test Checklist 110](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110) — Open catalogue of 110 agent test designs with acceptance criteria, synthetic examples and labelled traces; for test planning, not a model leaderboard.
 
 <!-- LIST:END -->
 
